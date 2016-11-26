@@ -1,0 +1,24 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 8 Cores, Setting up 6 Worker Threads
+
+
+[16:22:27:011940 --7:00] [Thread 5056] extDB2: Database Type: MySQL
+[16:22:27:013278 --7:00] [Thread 5056] extDB2: Database Session Pool Started
+[16:22:27:014191 --7:00] [Thread 5056] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\ArmaServers\fantomexile\@exileserver\extDB\sql_custom_v2\exile.ini
+[16:22:27:014294 --7:00] [Thread 5056] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[17:23:58:434339 --7:00] [Thread 4116] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String loadVehToVG:1:2
+[17:23:58:434385 --7:00] [Thread 4116] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname loadVehToVG
+[17:24:05:887695 --7:00] [Thread 5148] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String loadVehFromVG:2
+[17:24:05:887716 --7:00] [Thread 5148] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname loadVehFromVG
+[19:22:15:067566 --7:00] [Thread 5056] extDB2: Stopping ...

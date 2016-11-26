@@ -1,0 +1,24 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 8 Cores, Setting up 6 Worker Threads
+
+
+[15:33:44:440907 --7:00] [Thread 5724] extDB2: Database Type: MySQL
+[15:33:44:452081 --7:00] [Thread 5724] extDB2: Database Session Pool Started
+[15:33:44:453026 --7:00] [Thread 5724] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\ArmaServers\fantomexile\@exileserver\extDB\sql_custom_v2\exile.ini
+[15:33:44:453131 --7:00] [Thread 5724] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[15:33:44:549452 --7:00] [Thread 5724] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String loadTerritoryVehicles:1
+[15:33:44:549465 --7:00] [Thread 5724] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname loadTerritoryVehicles
+[15:33:44:550213 --7:00] [Thread 5724] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String loadTerritoryVehicles:2
+[15:33:44:550223 --7:00] [Thread 5724] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname loadTerritoryVehicles
+[16:47:39:987079 --7:00] [Thread 5724] extDB2: Stopping ...
